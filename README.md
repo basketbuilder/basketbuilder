@@ -1,4 +1,4 @@
-# ProQuote - Optical Dispensing Calculator
+# Optical Dispensing Calculator
 
 A responsive web application designed for optical professionals to generate quick quotes, calculate NHS vouchers, and apply complex retail offers.
 
